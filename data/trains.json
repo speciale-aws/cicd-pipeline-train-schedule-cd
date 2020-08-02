@@ -93,7 +93,7 @@
 				},
 				{
 					"station": "Pine",
-					"status": "DELAYED",
+					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm",
 					"delayedArrival": "12:07pm",
