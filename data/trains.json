@@ -81,6 +81,33 @@
 					"delayedDeparture": "1:17pm"
 				}
 			]
+		},
+		{
+			"name": "Golden Arrow - Blue",
+			"stops": [
+				{
+					"station": "Cypress",
+					"status": "ON-TIME",
+					"arrival": "11:00pm",
+					"departure": "11:10pm"
+				},
+				{
+					"station": "Pine",
+					"status": "DELAYED",
+					"arrival": "12:00pm",
+					"departure": "12:10pm",
+					"delayedArrival": "12:07pm",
+					"delayedDeparture": "12:17pm"
+				},
+				{
+					"station": "Hickory",
+					"status": "ON-TIME DAMNIT",
+					"arrival": "12:00pm",
+					"departure": "12:10pm",
+					"delayedArrival": "12:07pm",
+					"delayedDeparture": "12:17pm"
+				}
+			]
 		}
 	]
 }
